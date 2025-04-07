@@ -1,3 +1,6 @@
 [submodule "framework"]
 	path = framework
 	url = git@gitcode.com:ModelEngine/fit-framework.git
+[submodule "app-platform"]
+	path = app-platform
+	url = git@gitcode.com:ModelEngine/app-platform.git
